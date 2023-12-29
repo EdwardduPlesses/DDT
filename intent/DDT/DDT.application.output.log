@@ -668,10 +668,26 @@
     </FileLog>
     <FileLog>
       <ProjectId>e3964f71-bb33-4ec8-b54f-415dd3b62c18</ProjectId>
+      <CorrelationId>Intent.AspNetCore.Controllers.Controller#03bb967e-e8fe-4da5-b139-225edace97e0</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Api/Controllers/LeaderboardsController.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>LeaderboardsController.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>e3964f71-bb33-4ec8-b54f-415dd3b62c18</ProjectId>
       <CorrelationId>Intent.AspNetCore.Controllers.Controller#04dc997c-de8a-4c0c-8f1c-d4b54012fcc1</CorrelationId>
       <OverwriteBehaviour>always</OverwriteBehaviour>
       <ApplicationRelativeFilePath>../../DDT/DDT.Api/Controllers/SeedingController.cs</ApplicationRelativeFilePath>
       <ProjectRelativeFilePath>SeedingController.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>e3964f71-bb33-4ec8-b54f-415dd3b62c18</ProjectId>
+      <CorrelationId>Intent.AspNetCore.Controllers.Controller#3a688ab6-1f65-4d1e-9814-c13af7eb376d</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Api/Controllers/SettingsController.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>SettingsController.cs</ProjectRelativeFilePath>
       <IsIgnored>false</IsIgnored>
     </FileLog>
     <FileLog>
@@ -1644,6 +1660,22 @@
     </FileLog>
     <FileLog>
       <ProjectId>2594b8cb-8a4e-4c73-ab39-df1d61b20601</ProjectId>
+      <CorrelationId>Intent.Application.ServiceImplementations.ServiceImplementation#03bb967e-e8fe-4da5-b139-225edace97e0</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Application/Implementation/LeaderboardsService.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>LeaderboardsService.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>2594b8cb-8a4e-4c73-ab39-df1d61b20601</ProjectId>
+      <CorrelationId>Intent.Application.ServiceImplementations.ServiceImplementation#3a688ab6-1f65-4d1e-9814-c13af7eb376d</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Application/Implementation/SettingsService.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>SettingsService.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>2594b8cb-8a4e-4c73-ab39-df1d61b20601</ProjectId>
       <CorrelationId>Intent.Application.ServiceImplementations.ServiceImplementation#bfed3e63-c3e3-41a8-9be9-a13cb4ee3e32</CorrelationId>
       <OverwriteBehaviour>always</OverwriteBehaviour>
       <ApplicationRelativeFilePath>../../DDT/DDT.Application/Implementation/TimeEntriesService.cs</ApplicationRelativeFilePath>
@@ -1660,6 +1692,22 @@
     </FileLog>
     <FileLog>
       <ProjectId>a87a5ae0-9af7-4a1c-9ff1-0d0913cf16f5</ProjectId>
+      <CorrelationId>Intent.Application.Contracts.ServiceContract#03bb967e-e8fe-4da5-b139-225edace97e0</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Application/Interfaces/ILeaderboardsService.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>ILeaderboardsService.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>a87a5ae0-9af7-4a1c-9ff1-0d0913cf16f5</ProjectId>
+      <CorrelationId>Intent.Application.Contracts.ServiceContract#3a688ab6-1f65-4d1e-9814-c13af7eb376d</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Application/Interfaces/ISettingsService.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>ISettingsService.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>a87a5ae0-9af7-4a1c-9ff1-0d0913cf16f5</ProjectId>
       <CorrelationId>Intent.Application.Contracts.ServiceContract#bfed3e63-c3e3-41a8-9be9-a13cb4ee3e32</CorrelationId>
       <OverwriteBehaviour>always</OverwriteBehaviour>
       <ApplicationRelativeFilePath>../../DDT/DDT.Application/Interfaces/ITimeEntriesService.cs</ApplicationRelativeFilePath>
@@ -1668,10 +1716,210 @@
     </FileLog>
     <FileLog>
       <ProjectId>7f8ae6b5-6f10-48ff-99f4-f522bcb4ee8e</ProjectId>
+      <CorrelationId>Intent.Application.MediatR.CommandModels#3a8eb31e-4768-4e2a-8dd3-180172850269</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Application/Leaderboards/CreateLeaderboardCommand.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>Leaderboards/CreateLeaderboardCommand.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>7f8ae6b5-6f10-48ff-99f4-f522bcb4ee8e</ProjectId>
+      <CorrelationId>Intent.Application.MediatR.CommandModels#97725279-f111-4100-a7ac-e35b45cdbb1d</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Application/Leaderboards/DeleteLeaderboardCommand.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>Leaderboards/DeleteLeaderboardCommand.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>7f8ae6b5-6f10-48ff-99f4-f522bcb4ee8e</ProjectId>
+      <CorrelationId>Intent.Application.MediatR.QueryModels#595f0724-02f2-4b90-bf0c-2d2fa7881644</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Application/Leaderboards/GetLeaderboardByIdQuery.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>Leaderboards/GetLeaderboardByIdQuery.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>7f8ae6b5-6f10-48ff-99f4-f522bcb4ee8e</ProjectId>
+      <CorrelationId>Intent.Application.MediatR.QueryModels#5c28d1cb-b299-4110-9dba-89736abe7713</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Application/Leaderboards/GetLeaderboardsQuery.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>Leaderboards/GetLeaderboardsQuery.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>7f8ae6b5-6f10-48ff-99f4-f522bcb4ee8e</ProjectId>
+      <CorrelationId>Intent.Application.MediatR.QueryModels#eb82c6d7-9a43-4680-965e-072e5987b88d</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Application/Leaderboards/GetLeardboardQuery.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>Leaderboards/GetLeardboardQuery.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>7f8ae6b5-6f10-48ff-99f4-f522bcb4ee8e</ProjectId>
+      <CorrelationId>Intent.Application.Dtos.DtoModel#7d08ce77-69aa-4f44-b7ee-ad7bd2f9209a</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Application/Leaderboards/LeaderboardCreateDto.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>Leaderboards/LeaderboardCreateDto.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>7f8ae6b5-6f10-48ff-99f4-f522bcb4ee8e</ProjectId>
+      <CorrelationId>Intent.Application.Dtos.DtoModel#79398f9e-09df-4811-a0f5-803333765c6c</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Application/Leaderboards/LeaderboardDataDto.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>Leaderboards/LeaderboardDataDto.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>7f8ae6b5-6f10-48ff-99f4-f522bcb4ee8e</ProjectId>
+      <CorrelationId>Intent.Application.FluentValidation.Dtos.DTOValidator#79398f9e-09df-4811-a0f5-803333765c6c</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Application/Leaderboards/LeaderboardDataDtoValidator.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>Leaderboards/LeaderboardDataDtoValidator.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>7f8ae6b5-6f10-48ff-99f4-f522bcb4ee8e</ProjectId>
+      <CorrelationId>Intent.Application.Dtos.DtoModel#9a9e4065-561c-4223-9eea-521c6c8f4973</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Application/Leaderboards/LeaderboardDto.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>Leaderboards/LeaderboardDto.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>7f8ae6b5-6f10-48ff-99f4-f522bcb4ee8e</ProjectId>
+      <CorrelationId>Intent.Application.Dtos.AutoMapper.MappingExtensions#9a9e4065-561c-4223-9eea-521c6c8f4973</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Application/Leaderboards/LeaderboardDtoMappingExtensions.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>Leaderboards/LeaderboardDtoMappingExtensions.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>7f8ae6b5-6f10-48ff-99f4-f522bcb4ee8e</ProjectId>
+      <CorrelationId>Intent.Application.Dtos.DtoModel#60e73f3c-5db0-42b1-b57a-d99b8a9728fb</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Application/Leaderboards/LeaderboardGetDto.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>Leaderboards/LeaderboardGetDto.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>7f8ae6b5-6f10-48ff-99f4-f522bcb4ee8e</ProjectId>
+      <CorrelationId>Intent.Application.Dtos.DtoModel#dc5aa788-5ae3-420e-9485-e76a1822acda</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Application/Leaderboards/LeaderboardUpdateDto.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>Leaderboards/LeaderboardUpdateDto.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>7f8ae6b5-6f10-48ff-99f4-f522bcb4ee8e</ProjectId>
+      <CorrelationId>Intent.Application.MediatR.CommandModels#8233ee3e-a586-46da-b74c-a754d35d678c</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Application/Leaderboards/UpdateLeaderboardCommand.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>Leaderboards/UpdateLeaderboardCommand.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>7f8ae6b5-6f10-48ff-99f4-f522bcb4ee8e</ProjectId>
       <CorrelationId>Intent.Application.MediatR.CommandModels#1bdf7140-616a-452a-b3d6-d07a95c86ff0</CorrelationId>
       <OverwriteBehaviour>always</OverwriteBehaviour>
       <ApplicationRelativeFilePath>../../DDT/DDT.Application/Seeding/SeedDataCommand.cs</ApplicationRelativeFilePath>
       <ProjectRelativeFilePath>Seeding/SeedDataCommand.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>7f8ae6b5-6f10-48ff-99f4-f522bcb4ee8e</ProjectId>
+      <CorrelationId>Intent.Application.MediatR.CommandModels#93b7557a-c65a-462f-b7b2-df525ec66f1e</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Application/Settings/CreateSettingsCommand.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>Settings/CreateSettingsCommand.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>7f8ae6b5-6f10-48ff-99f4-f522bcb4ee8e</ProjectId>
+      <CorrelationId>Intent.Application.MediatR.CommandModels#e69631ac-c28c-4299-bdff-2e3c4cc04bf6</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Application/Settings/DeleteSettingsCommand.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>Settings/DeleteSettingsCommand.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>7f8ae6b5-6f10-48ff-99f4-f522bcb4ee8e</ProjectId>
+      <CorrelationId>Intent.Application.MediatR.QueryModels#cd1c654a-3c04-45dc-914b-6c6943dec9b6</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Application/Settings/GetSettingsByIdQuery.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>Settings/GetSettingsByIdQuery.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>7f8ae6b5-6f10-48ff-99f4-f522bcb4ee8e</ProjectId>
+      <CorrelationId>Intent.Application.MediatR.QueryModels#1a1ed0dd-2e53-4464-8511-34c3c10decbf</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Application/Settings/GetSettingsQuery.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>Settings/GetSettingsQuery.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>7f8ae6b5-6f10-48ff-99f4-f522bcb4ee8e</ProjectId>
+      <CorrelationId>Intent.Application.Dtos.DtoModel#22494586-7050-4854-a961-5549984ef80a</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Application/Settings/SettingsCreateDto.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>Settings/SettingsCreateDto.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>7f8ae6b5-6f10-48ff-99f4-f522bcb4ee8e</ProjectId>
+      <CorrelationId>Intent.Application.FluentValidation.Dtos.DTOValidator#22494586-7050-4854-a961-5549984ef80a</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Application/Settings/SettingsCreateDtoValidator.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>Settings/SettingsCreateDtoValidator.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>7f8ae6b5-6f10-48ff-99f4-f522bcb4ee8e</ProjectId>
+      <CorrelationId>Intent.Application.Dtos.DtoModel#f6a3e6eb-3154-4a47-8363-3437260da79b</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Application/Settings/SettingsDto.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>Settings/SettingsDto.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>7f8ae6b5-6f10-48ff-99f4-f522bcb4ee8e</ProjectId>
+      <CorrelationId>Intent.Application.Dtos.AutoMapper.MappingExtensions#f6a3e6eb-3154-4a47-8363-3437260da79b</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Application/Settings/SettingsDtoMappingExtensions.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>Settings/SettingsDtoMappingExtensions.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>7f8ae6b5-6f10-48ff-99f4-f522bcb4ee8e</ProjectId>
+      <CorrelationId>Intent.Application.FluentValidation.Dtos.DTOValidator#f6a3e6eb-3154-4a47-8363-3437260da79b</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Application/Settings/SettingsDtoValidator.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>Settings/SettingsDtoValidator.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>7f8ae6b5-6f10-48ff-99f4-f522bcb4ee8e</ProjectId>
+      <CorrelationId>Intent.Application.Dtos.DtoModel#1d2eadf9-2c38-4cf8-9ca3-f43d78191b43</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Application/Settings/SettingsUpdateDto.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>Settings/SettingsUpdateDto.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>7f8ae6b5-6f10-48ff-99f4-f522bcb4ee8e</ProjectId>
+      <CorrelationId>Intent.Application.FluentValidation.Dtos.DTOValidator#1d2eadf9-2c38-4cf8-9ca3-f43d78191b43</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Application/Settings/SettingsUpdateDtoValidator.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>Settings/SettingsUpdateDtoValidator.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>7f8ae6b5-6f10-48ff-99f4-f522bcb4ee8e</ProjectId>
+      <CorrelationId>Intent.Application.MediatR.CommandModels#c3c8d85b-366e-4284-a219-3babff5ca2c1</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Application/Settings/UpdateSettingsCommand.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>Settings/UpdateSettingsCommand.cs</ProjectRelativeFilePath>
       <IsIgnored>false</IsIgnored>
     </FileLog>
     <FileLog>
@@ -1852,6 +2100,22 @@
     </FileLog>
     <FileLog>
       <ProjectId>cc125096-7037-4e15-b102-ae7e640f3abb</ProjectId>
+      <CorrelationId>Intent.Entities.DomainEntity#3fd104bf-454f-488d-b54d-71a0898be8d5</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Domain/Entities/Leaderboard.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>Leaderboard.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>cc125096-7037-4e15-b102-ae7e640f3abb</ProjectId>
+      <CorrelationId>Intent.Entities.DomainEntity#c8474d4a-af7e-4d72-8103-f8c204525c18</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Domain/Entities/Settings.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>Settings.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>cc125096-7037-4e15-b102-ae7e640f3abb</ProjectId>
       <CorrelationId>Intent.Entities.DomainEntity#68434b48-27bb-4b6f-a755-11b48394e73a</CorrelationId>
       <OverwriteBehaviour>always</OverwriteBehaviour>
       <ApplicationRelativeFilePath>../../DDT/DDT.Domain/Entities/TimeEntry.cs</ApplicationRelativeFilePath>
@@ -1884,6 +2148,14 @@
     </FileLog>
     <FileLog>
       <ProjectId>c912c745-dace-47ee-81a3-68fc3ce23481</ProjectId>
+      <CorrelationId>Intent.Entities.Repositories.Api.EntityRepositoryInterface#3fd104bf-454f-488d-b54d-71a0898be8d5</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Domain/Repositories/ILeaderboardRepository.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>ILeaderboardRepository.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>c912c745-dace-47ee-81a3-68fc3ce23481</ProjectId>
       <CorrelationId>Intent.Entities.Repositories.Api.PagedResultInterface</CorrelationId>
       <OverwriteBehaviour>always</OverwriteBehaviour>
       <ApplicationRelativeFilePath>../../DDT/DDT.Domain/Repositories/IPagedResult.cs</ApplicationRelativeFilePath>
@@ -1896,6 +2168,14 @@
       <OverwriteBehaviour>always</OverwriteBehaviour>
       <ApplicationRelativeFilePath>../../DDT/DDT.Domain/Repositories/IRepository.cs</ApplicationRelativeFilePath>
       <ProjectRelativeFilePath>IRepository.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>c912c745-dace-47ee-81a3-68fc3ce23481</ProjectId>
+      <CorrelationId>Intent.Entities.Repositories.Api.EntityRepositoryInterface#c8474d4a-af7e-4d72-8103-f8c204525c18</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Domain/Repositories/ISettingsRepository.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>ISettingsRepository.cs</ProjectRelativeFilePath>
       <IsIgnored>false</IsIgnored>
     </FileLog>
     <FileLog>
@@ -1948,6 +2228,22 @@
     </FileLog>
     <FileLog>
       <ProjectId>23e83f14-fb86-4b4d-8504-6c378fa0bf1f</ProjectId>
+      <CorrelationId>Intent.EntityFrameworkCore.EntityTypeConfiguration#3fd104bf-454f-488d-b54d-71a0898be8d5</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Infrastructure/Persistence/Configurations/LeaderboardConfiguration.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>LeaderboardConfiguration.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>23e83f14-fb86-4b4d-8504-6c378fa0bf1f</ProjectId>
+      <CorrelationId>Intent.EntityFrameworkCore.EntityTypeConfiguration#c8474d4a-af7e-4d72-8103-f8c204525c18</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Infrastructure/Persistence/Configurations/SettingsConfiguration.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>SettingsConfiguration.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>23e83f14-fb86-4b4d-8504-6c378fa0bf1f</ProjectId>
       <CorrelationId>Intent.EntityFrameworkCore.EntityTypeConfiguration#68434b48-27bb-4b6f-a755-11b48394e73a</CorrelationId>
       <OverwriteBehaviour>always</OverwriteBehaviour>
       <ApplicationRelativeFilePath>../../DDT/DDT.Infrastructure/Persistence/Configurations/TimeEntryConfiguration.cs</ApplicationRelativeFilePath>
@@ -1972,6 +2268,14 @@
     </FileLog>
     <FileLog>
       <ProjectId>9e47cbab-db77-459b-8f35-ddebbeaac689</ProjectId>
+      <CorrelationId>Intent.EntityFrameworkCore.Repositories.Repository#3fd104bf-454f-488d-b54d-71a0898be8d5</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Infrastructure/Repositories/LeaderboardRepository.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>LeaderboardRepository.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>9e47cbab-db77-459b-8f35-ddebbeaac689</ProjectId>
       <CorrelationId>Intent.EntityFrameworkCore.Repositories.PagedList</CorrelationId>
       <OverwriteBehaviour>always</OverwriteBehaviour>
       <ApplicationRelativeFilePath>../../DDT/DDT.Infrastructure/Repositories/PagedList.cs</ApplicationRelativeFilePath>
@@ -1984,6 +2288,14 @@
       <OverwriteBehaviour>always</OverwriteBehaviour>
       <ApplicationRelativeFilePath>../../DDT/DDT.Infrastructure/Repositories/RepositoryBase.cs</ApplicationRelativeFilePath>
       <ProjectRelativeFilePath>RepositoryBase.cs</ProjectRelativeFilePath>
+      <IsIgnored>false</IsIgnored>
+    </FileLog>
+    <FileLog>
+      <ProjectId>9e47cbab-db77-459b-8f35-ddebbeaac689</ProjectId>
+      <CorrelationId>Intent.EntityFrameworkCore.Repositories.Repository#c8474d4a-af7e-4d72-8103-f8c204525c18</CorrelationId>
+      <OverwriteBehaviour>always</OverwriteBehaviour>
+      <ApplicationRelativeFilePath>../../DDT/DDT.Infrastructure/Repositories/SettingsRepository.cs</ApplicationRelativeFilePath>
+      <ProjectRelativeFilePath>SettingsRepository.cs</ProjectRelativeFilePath>
       <IsIgnored>false</IsIgnored>
     </FileLog>
     <FileLog>
