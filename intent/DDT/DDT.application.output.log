@@ -660,14 +660,6 @@
     </FileLog>
     <FileLog>
       <ProjectId>e3964f71-bb33-4ec8-b54f-415dd3b62c18</ProjectId>
-      <CorrelationId>Intent.AspNetCore.Controllers.Controller#f999e7b4-a48e-4e87-9ae3-0dd127fc0cbb</CorrelationId>
-      <OverwriteBehaviour>always</OverwriteBehaviour>
-      <ApplicationRelativeFilePath>../../DDT/DDT.Api/Controllers/EntryTypesController.cs</ApplicationRelativeFilePath>
-      <ProjectRelativeFilePath>EntryTypesController.cs</ProjectRelativeFilePath>
-      <IsIgnored>false</IsIgnored>
-    </FileLog>
-    <FileLog>
-      <ProjectId>e3964f71-bb33-4ec8-b54f-415dd3b62c18</ProjectId>
       <CorrelationId>Intent.AspNetCore.Controllers.Controller#03bb967e-e8fe-4da5-b139-225edace97e0</CorrelationId>
       <OverwriteBehaviour>always</OverwriteBehaviour>
       <ApplicationRelativeFilePath>../../DDT/DDT.Api/Controllers/LeaderboardsController.cs</ApplicationRelativeFilePath>
@@ -684,19 +676,11 @@
     </FileLog>
     <FileLog>
       <ProjectId>e3964f71-bb33-4ec8-b54f-415dd3b62c18</ProjectId>
-      <CorrelationId>Intent.AspNetCore.Controllers.Controller#3a688ab6-1f65-4d1e-9814-c13af7eb376d</CorrelationId>
-      <OverwriteBehaviour>always</OverwriteBehaviour>
-      <ApplicationRelativeFilePath>../../DDT/DDT.Api/Controllers/SettingsController.cs</ApplicationRelativeFilePath>
-      <ProjectRelativeFilePath>SettingsController.cs</ProjectRelativeFilePath>
-      <IsIgnored>false</IsIgnored>
-    </FileLog>
-    <FileLog>
-      <ProjectId>e3964f71-bb33-4ec8-b54f-415dd3b62c18</ProjectId>
       <CorrelationId>Intent.AspNetCore.Controllers.Controller#bfed3e63-c3e3-41a8-9be9-a13cb4ee3e32</CorrelationId>
       <OverwriteBehaviour>always</OverwriteBehaviour>
       <ApplicationRelativeFilePath>../../DDT/DDT.Api/Controllers/TimeEntriesController.cs</ApplicationRelativeFilePath>
       <ProjectRelativeFilePath>TimeEntriesController.cs</ProjectRelativeFilePath>
-      <IsIgnored>true</IsIgnored>
+      <IsIgnored>false</IsIgnored>
     </FileLog>
     <FileLog>
       <ProjectId>d8311ff6-557e-449b-9016-08264df07954</ProjectId>
@@ -2200,7 +2184,7 @@
       <OverwriteBehaviour>always</OverwriteBehaviour>
       <ApplicationRelativeFilePath>../../DDT/DDT.Infrastructure/DependencyInjection.cs</ApplicationRelativeFilePath>
       <ProjectRelativeFilePath>DependencyInjection.cs</ProjectRelativeFilePath>
-      <IsIgnored>true</IsIgnored>
+      <IsIgnored>false</IsIgnored>
     </FileLog>
     <FileLog>
       <ProjectId>3950d0ea-97ae-4596-983a-cd62d7ad6707</ProjectId>

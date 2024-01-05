@@ -42,18 +42,7 @@
       <parentFolderId>bfed3e63-c3e3-41a8-9be9-a13cb4ee3e32</parentFolderId>
       <packageId>f6523d22-5052-4632-a3a4-9d5fee1fa041</packageId>
       <packageName>DDT.Services</packageName>
-      <stereotypes>
-        <stereotype stereotypeDefinitionId="b4581ed2-42ec-4ae2-83dd-dcdd5f0837b6" name="Http Settings">
-          <addedByDefault>false</addedByDefault>
-          <definitionPackageName>Intent.Metadata.WebApi</definitionPackageName>
-          <definitionPackageId>0011387a-b122-45d7-9cdb-8e21b315ab9f</definitionPackageId>
-          <properties>
-            <property name="801c3e61-4431-4d81-93fa-7e57d33cb3fa" display="Verb" value="POST" isActive="true" />
-            <property name="5dd3e07d-76eb-45d4-9956-4325fb068acc" display="Route" value="" isActive="true" />
-            <property name="4490e212-1e99-43ce-b3dd-048ed2a6bae8" display="Return Type Mediatype" value="Default" isActive="true" />
-          </properties>
-        </stereotype>
-      </stereotypes>
+      <stereotypes />
       <metadata />
       <childElements>
         <childElement id="6e7c6fba-ef7f-43be-bf31-e9886e383fe3" type="Parameter" typeId="00208d20-469d-41cb-8501-768fd5eb796b">
@@ -114,18 +103,7 @@
       <parentFolderId>bfed3e63-c3e3-41a8-9be9-a13cb4ee3e32</parentFolderId>
       <packageId>f6523d22-5052-4632-a3a4-9d5fee1fa041</packageId>
       <packageName>DDT.Services</packageName>
-      <stereotypes>
-        <stereotype stereotypeDefinitionId="b4581ed2-42ec-4ae2-83dd-dcdd5f0837b6" name="Http Settings">
-          <addedByDefault>false</addedByDefault>
-          <definitionPackageName>Intent.Metadata.WebApi</definitionPackageName>
-          <definitionPackageId>0011387a-b122-45d7-9cdb-8e21b315ab9f</definitionPackageId>
-          <properties>
-            <property name="801c3e61-4431-4d81-93fa-7e57d33cb3fa" display="Verb" value="GET" isActive="true" />
-            <property name="5dd3e07d-76eb-45d4-9956-4325fb068acc" display="Route" value="{id}" isActive="true" />
-            <property name="4490e212-1e99-43ce-b3dd-048ed2a6bae8" display="Return Type Mediatype" value="Default" isActive="true" />
-          </properties>
-        </stereotype>
-      </stereotypes>
+      <stereotypes />
       <metadata />
       <childElements>
         <childElement id="ce17f21c-4ece-4be6-965a-b7f6dbc69354" type="Parameter" typeId="00208d20-469d-41cb-8501-768fd5eb796b">
@@ -185,18 +163,7 @@
       <parentFolderId>bfed3e63-c3e3-41a8-9be9-a13cb4ee3e32</parentFolderId>
       <packageId>f6523d22-5052-4632-a3a4-9d5fee1fa041</packageId>
       <packageName>DDT.Services</packageName>
-      <stereotypes>
-        <stereotype stereotypeDefinitionId="b4581ed2-42ec-4ae2-83dd-dcdd5f0837b6" name="Http Settings">
-          <addedByDefault>false</addedByDefault>
-          <definitionPackageName>Intent.Metadata.WebApi</definitionPackageName>
-          <definitionPackageId>0011387a-b122-45d7-9cdb-8e21b315ab9f</definitionPackageId>
-          <properties>
-            <property name="801c3e61-4431-4d81-93fa-7e57d33cb3fa" display="Verb" value="GET" isActive="true" />
-            <property name="5dd3e07d-76eb-45d4-9956-4325fb068acc" display="Route" value="" isActive="true" />
-            <property name="4490e212-1e99-43ce-b3dd-048ed2a6bae8" display="Return Type Mediatype" value="Default" isActive="true" />
-          </properties>
-        </stereotype>
-      </stereotypes>
+      <stereotypes />
       <metadata />
       <childElements />
     </childElement>
@@ -218,18 +185,7 @@
       <parentFolderId>bfed3e63-c3e3-41a8-9be9-a13cb4ee3e32</parentFolderId>
       <packageId>f6523d22-5052-4632-a3a4-9d5fee1fa041</packageId>
       <packageName>DDT.Services</packageName>
-      <stereotypes>
-        <stereotype stereotypeDefinitionId="b4581ed2-42ec-4ae2-83dd-dcdd5f0837b6" name="Http Settings">
-          <addedByDefault>false</addedByDefault>
-          <definitionPackageName>Intent.Metadata.WebApi</definitionPackageName>
-          <definitionPackageId>0011387a-b122-45d7-9cdb-8e21b315ab9f</definitionPackageId>
-          <properties>
-            <property name="801c3e61-4431-4d81-93fa-7e57d33cb3fa" display="Verb" value="PUT" isActive="true" />
-            <property name="5dd3e07d-76eb-45d4-9956-4325fb068acc" display="Route" value="{id}" isActive="true" />
-            <property name="4490e212-1e99-43ce-b3dd-048ed2a6bae8" display="Return Type Mediatype" value="Default" isActive="true" />
-          </properties>
-        </stereotype>
-      </stereotypes>
+      <stereotypes />
       <metadata />
       <childElements>
         <childElement id="3e74a259-4f11-4bca-856c-488cc06a3efd" type="Parameter" typeId="00208d20-469d-41cb-8501-768fd5eb796b">
@@ -322,18 +278,7 @@
       <parentFolderId>bfed3e63-c3e3-41a8-9be9-a13cb4ee3e32</parentFolderId>
       <packageId>f6523d22-5052-4632-a3a4-9d5fee1fa041</packageId>
       <packageName>DDT.Services</packageName>
-      <stereotypes>
-        <stereotype stereotypeDefinitionId="b4581ed2-42ec-4ae2-83dd-dcdd5f0837b6" name="Http Settings">
-          <addedByDefault>false</addedByDefault>
-          <definitionPackageName>Intent.Metadata.WebApi</definitionPackageName>
-          <definitionPackageId>0011387a-b122-45d7-9cdb-8e21b315ab9f</definitionPackageId>
-          <properties>
-            <property name="801c3e61-4431-4d81-93fa-7e57d33cb3fa" display="Verb" value="DELETE" isActive="true" />
-            <property name="5dd3e07d-76eb-45d4-9956-4325fb068acc" display="Route" value="{id}" isActive="true" />
-            <property name="4490e212-1e99-43ce-b3dd-048ed2a6bae8" display="Return Type Mediatype" value="Default" isActive="true" />
-          </properties>
-        </stereotype>
-      </stereotypes>
+      <stereotypes />
       <metadata />
       <childElements>
         <childElement id="b431adb8-f92a-448f-956b-1b3862fb8ac9" type="Parameter" typeId="00208d20-469d-41cb-8501-768fd5eb796b">
